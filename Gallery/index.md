@@ -6,7 +6,7 @@ layout: "gallery"
 ---
 
 <div class="gallery-group-main">
-{% galleryGroup '猫' 'cat' '/Gallery/cat'  https://gitee.com/lu-dingtao/drawing-bed/raw/master/Icon/avatar1.png %}
-{% galleryGroup '旅行' 'journey' '/Gallery/journey'  https://lulu-dt-images.oss-cn-chengdu.aliyuncs.com/imagesheadPhoto1.jpg %}
+{% galleryGroup '猫' 'cat' '/Gallery/cat' https://lulu-dt-images.oss-cn-chengdu.aliyuncs.com/imagesmmzz.jpg %}
+{% galleryGroup '旅行' 'journey' '/Gallery/journey' https://lulu-dt-images.oss-cn-chengdu.aliyuncs.com/images/journey/1.jpg %}
 </div>
 
