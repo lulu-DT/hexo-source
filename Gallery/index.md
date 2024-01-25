@@ -6,6 +6,6 @@ layout: "gallery"
 ---
 
 <div class="gallery-group-main">
-{% galleryGroup '猫' 'cat' '/Gallery/cat' https://lulu-dt.oss-cn-chengdu.aliyuncs.com/markdownmmzz.jpg %}
-{% galleryGroup '旅行' 'journey' '/Gallery/journey' https://lulu-dt-images.oss-cn-chengdu.aliyuncs.com/images/journey/1.jpg %}
+{% galleryGroup '猫' 'cat' '/Gallery/cat' ./assets/avatar.png %}
+{% galleryGroup '旅行' 'journey' '/Gallery/journey' ./assets/1.jpg %}
 </div>
