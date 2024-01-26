@@ -1,12 +1,15 @@
 ---
-title: （must）
+title: Butterfly Config
 date: 2024.01.25
-updated: 2024.01.25
+updated: 2024.01.26
 tags: 博客
 categories: 博客
 cover: https://lulu-dt-images.oss-cn-chengdu.aliyuncs.com/images/journey/1.jpg
 toc_style_simple: true
-highlight_shrink: false
+highlight_shrink: true
+toc: true
+toc_number: true
+toc_style_simple: true
 ---
 
 
@@ -85,6 +88,88 @@ anchor:
   # Click the headline to scroll and update the anchor
   click_to_scroll: false
 ```
+
+
+
+### 文章打赏
+
+[链接](https://butterfly.js.org/posts/4aa8abbe/#%E6%96%87%E7%AB%A0%E6%89%93%E8%B3%9E)
+
+```yaml
+reward:
+  enable: true
+  text:
+  QR_code:
+    - img: /img/wechat.jpg
+      link:
+      text: 微信
+    - img: /img/alipay.jpg
+      link:
+      text: 支付宝
+```
+
+### 标签Plugin
+
+[链接](https://butterfly.js.org/posts/4aa8abbe/#%E6%A8%99%E7%B1%A4%E5%A4%96%E6%8E%9B%EF%BC%88Tag-Plugins%EF%BC%89)
+
+```markdown
+{% note simple %}
+默认 提示块标签
+{% endnote %}
+
+{% note default simple %}
+default 提示块标签
+{% endnote %}
+
+{% note primary simple %}
+primary 提示块标签
+{% endnote %}
+
+{% note success simple %}
+success 提示块标签
+{% endnote %}
+
+{% note info simple %}
+info 提示块标签
+{% endnote %}
+
+{% note warning simple %}
+warning 提示块标签
+{% endnote %}
+
+{% note danger simple %}
+danger 提示块标签
+{% endnote %}
+
+```
+
+{% note simple %}
+默认 提示块标签
+{% endnote %}
+
+{% note default simple %}
+default 提示块标签
+{% endnote %}
+
+{% note primary simple %}
+primary 提示块标签
+{% endnote %}
+
+{% note success simple %}
+success 提示块标签
+{% endnote %}
+
+{% note info simple %}
+info 提示块标签
+{% endnote %}
+
+{% note warning simple %}
+warning 提示块标签
+{% endnote %}
+
+{% note danger simple %}
+danger 提示块标签
+{% endnote %}
 
 
 
