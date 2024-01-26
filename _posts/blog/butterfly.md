@@ -5,11 +5,12 @@ updated: 2024.01.26
 tags: 博客
 categories: 博客
 cover: https://lulu-dt-images.oss-cn-chengdu.aliyuncs.com/images/journey/1.jpg
-toc_style_simple: true
-highlight_shrink: true
+highlight_shrink: false
 toc: true
 toc_number: true
 toc_style_simple: true
+mathjax: false
+katex: false
 ---
 
 
