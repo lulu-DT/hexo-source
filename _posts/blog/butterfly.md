@@ -13,17 +13,13 @@ mathjax: false
 katex: false
 ---
 
-
-
 # Butterfly
 
-参考自：
+## 📚 索引
 
-> 📚 索引
->
 > 🚀 [快速开始](https://butterfly.js.org/posts/21cfbf15/) - 📑 [主题页面](https://butterfly.js.org/posts/dc584b87/) - 📌 [主题配置-1](https://butterfly.js.org/posts/4aa8abbe/) - ⚔️ [主题配置-2](https://butterfly.js.org/posts/ceeb73f/) - ❓ [主题问答](https://butterfly.js.org/posts/98d20436/) - ⚡️ [进阶教程](https://butterfly.js.org/posts/4073eda/)
 
-## 配置
+## 📌配置
 
 ### 导航栏头像
 
